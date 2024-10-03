@@ -2,3 +2,4 @@
 /_old
 */generated_tests/*
 !example
+.DS_store
